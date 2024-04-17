@@ -2,7 +2,7 @@
 #simulate data for 4 response : 4 variance parameters(sigma):alpha : 4*3
 #                               6 correlation parameters    (rho)  : 6* 3
 #Total number of parameters     0.5*(p+1)*q*(q+1)
-n= 500
+n= 600
 q<- 4 #number of phenotypes
 p=2   #number of predictors 
 set.seed(100)
