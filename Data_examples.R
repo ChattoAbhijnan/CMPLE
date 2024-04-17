@@ -27,7 +27,7 @@ results_1<-CMPLE(mydata,p=2,q=4,epsilon = 0.001)
 # containing the estimates, standard errors, p-value and 95% confidence intervals. 
 # Here, the alpha parameters denote regression parameters concerning standard deviation
 # and delta parameters denotes regression parameters concerning pairwise correlations
-# A demo output can be found at https://github.com/ChattoAbhijnan/CMPLE/blob/main/new_readme.txt
+# A demo output can be found at https://github.com/ChattoAbhijnan/CMPLE/blob/main/Demo_output.txt
 
 #############################################################################################
 
@@ -45,4 +45,4 @@ results_2<-CMPLE(mydata,p=10,q=4,epsilon = 0.001)
 # containing the estimates, standard errors, p-value and 95% confidence intervals. 
 # Here, the alpha parameters denote regression parameters concerning standard deviation
 # and delta parameters denotes regression parameters concerning pairwise correlations
-# A demo output can be found at https://github.com/ChattoAbhijnan/CMPLE/blob/main/new_readme.txt
+# A demo output can be found at https://github.com/ChattoAbhijnan/CMPLE/blob/main/Demo_output.txt
