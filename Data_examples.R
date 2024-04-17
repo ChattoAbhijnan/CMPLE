@@ -14,7 +14,7 @@ require(numDeriv)
 
 
 #Example 1 which simulates a data set with p=2 and q=4 for a 
-# sample size of n=500. 
+# sample size of n=600. 
 
 p=2
 q=4
