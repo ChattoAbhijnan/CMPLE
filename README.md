@@ -15,7 +15,7 @@ Data_generation2.R: R file (code) for simulating data on four responses (phenoty
 CMPLE.R: R file (code) to perform estimation, standard error calculation, and obtain p-values. 
 
 Demo_examples.R: R file (code) shows how to apply the CMPLE.R function to analyze two simulated datasets. Practitioners should save 
-all four files in the same folder. Then execute each line of code of the file Demo_example.R. 
+all four files in the same folder. Then execute each line of code of the file Demo_examples.R. 
 
 The following example illustrates how the code can be used.
 
