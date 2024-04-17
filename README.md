@@ -44,4 +44,4 @@ out2= Standard error of parameter estimates (In the same order as out1).
 
 out3= Data frame containing parameter names, estimates, standard error, p-value, lower and upper limits of the 95\% confidence interval. 
 
-One demo output can be found at the file: new_readme.txt
+One demo output can be found in the file: Demo_output.txt
